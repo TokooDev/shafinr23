@@ -27,10 +27,9 @@
 </a>
 <a href="https://github.com/shafinr23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=mindDiary&theme=dark" />
-
 </a>
 <a href="https://github.com/shafinr23/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syhafinr23&repo=xylophone-flutter&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=xylophone-flutter&theme=dark" />
 </a>
 
 <p align="center">
